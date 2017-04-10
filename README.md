@@ -11,6 +11,7 @@ Create some files, folders, etc. Play with it a little to get used to git comman
 
 ## Some random text
 Now I edit this file through github's website.
+
 I have changed the last sentence.
 
 ## Conclusions
